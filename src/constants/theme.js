@@ -1,0 +1,18 @@
+export const COLORS = {
+  pink:        '#e91e8c',
+  pinkLight:   '#ff6eb4',
+  pinkHero:    '#ff3d9a',
+  gold:        '#c8960c',
+  goldLight:   '#e8b84b',
+  purple:      '#7b1fa2',
+  yellow:      '#FFE600',
+  darkBg:      '#1a1a2e',
+  darkBgDeep:  '#0a0a1a',
+  darkBgMid:   '#12122a',
+  darkCard:    '#1e1e38',
+  darkBorder:  '#2a2a4a',
+  lightBg:     '#ffffff',
+  lightBg2:    '#f8f6ff',
+  lightCard:   '#fdfbff',
+  lightBorder: '#ece6f5',
+}
